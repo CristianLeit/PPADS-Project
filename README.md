@@ -1,2 +1,2 @@
-# Projeto de Pratica Profissional em ADS
+# Projeto de Prática Profissional em ADS
 ## Grupo: Best Project
